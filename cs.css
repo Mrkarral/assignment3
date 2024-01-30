@@ -1,0 +1,42 @@
+<style>
+.custom-option .avp-productoptioncheckwrapper {
+    border: 2px solid #C460AA;
+    border-radius: 15px;
+    padding: 15px 8px;
+    background: #E6ADD0;
+}
+
+.custom-option .avp-productoptioncheckwrapper:nth-of-type(2) {
+    border: 2px solid #C24F95;
+    border-radius: 15px;
+    padding: 15px 8px;
+    background: #C24F95;
+
+
+    background-image: url(https://cdn.shopify.com/s/files/1/0558/7278/2532/files/bg-01.png?v=1706623100);
+    width: 20px;
+    background-repeat: no-repeat;
+    background-size: 9ch;
+
+}
+.avp-watermark-footer {
+    display: none !important;
+    opacity: 0;
+}
+.custom-option.avp-option.ap-options__radio-container.avp-columnwidth-100 {
+    margin-bottom: -70px;
+} 
+.avp-option-title {
+    text-align: center;
+}
+.apo-title {
+    font-size: 18px !important;
+    font-weight: bold;
+}
+
+.avpoptions-container__v2 div[role=group] span>label:not(label.avp-hiddenvarianttitleswatch), .avpoptions-container__v2 fieldset>label:not(label.avp-hiddenvarianttitleswatch), .avpoptions-container__v2 label.avp-productoptionswatchwrapper:not(label.avp-hiddenvarianttitleswatch){
+    width: 105% !important;
+}
+
+
+</style>
